@@ -183,9 +183,7 @@ curl http://localhost:8000/api/v1/test
 credit-risk-analytics/
 │
 ├── dashboard.html              # Interactive web dashboard
-├── README.md                   # This file
-├── QUICKSTART.md              # Fast setup guide
-├── WALKTHROUGH.md             # Detailed project guide
+├── README.md                   
 ├── requirements.txt           # Python dependencies
 ├── .env.example               # Environment variables template
 ├── .gitignore                 # Git ignore rules
@@ -217,8 +215,7 @@ credit-risk-analytics/
 ├── visualization/             # Additional visualizations
 │   └── tableau/              # Tableau workbooks (optional)
 │
-└── notebooks/                 # Jupyter notebooks
-    └── credit_risk_eda.ipynb # Exploratory data analysis
+└── credit_risk_eda.ipynb # Exploratory data analysis
 ```
 
 ---
@@ -622,15 +619,11 @@ MIT License - Free to use for educational and portfolio purposes.
 
 ---
 
-## Author
-
-**Prana**  
-Operations Analyst Candidate
 
 ### Contact
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [yourusername](https://github.com/PRANABraight)
+- LinkedIn: [yourprofile](https://linkedin.com/in/PRANABraight)
+- Email: pranab.rai@mca.christuniversity.in
 
 ---
 
