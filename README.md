@@ -621,8 +621,8 @@ MIT License - Free to use for educational and portfolio purposes.
 
 
 ### Contact
-- GitHub: [yourusername](https://github.com/PRANABraight)
-- LinkedIn: [yourprofile](https://linkedin.com/in/PRANABraight)
+- GitHub: [PRANABraight](https://github.com/PRANABraight)
+- LinkedIn: [pranabrai](https://linkedin.com/in/pranabrai)
 - Email: pranab.rai@mca.christuniversity.in
 
 ---
