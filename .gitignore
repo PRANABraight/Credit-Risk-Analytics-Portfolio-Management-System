@@ -31,6 +31,8 @@ data/raw/*.csv
 data/raw/*.zip
 data/processed/*.csv
 
+docs
+
 # Kaggle credentials
 .kaggle/
 
@@ -52,3 +54,4 @@ Thumbs.db
 
 # Logs
 *.log
+visualization\dashboard_design.md
