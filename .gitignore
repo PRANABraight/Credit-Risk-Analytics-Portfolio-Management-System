@@ -31,9 +31,9 @@ data/raw/*.csv
 data/raw/*.zip
 data/processed/*.csv
 
-docs/INTERVIEW_GUIDE.md
-docs/SQL_CHEATSHEET.md
-docs/SQL_EXPLANATIONS.md
+# Markdown files (exclude all except README.md)
+*.md
+!README.md
 
 # Kaggle credentials
 .kaggle/
@@ -56,4 +56,3 @@ Thumbs.db
 
 # Logs
 *.log
-visualization/dashboard_design.md
